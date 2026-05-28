@@ -8,48 +8,46 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : El vaquero, el muerto y el malo
 
 **Web:**   (https://github.com/ClaudiaCeacero/elvaqueroelmuertoyelmalo/blob/master/_coverpage.md)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Claudia Ceacero Carrasco 
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
+ 
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : En el viejo oeste hay un pueblo habitado por zombies, hasta que llegas tú, un habitante vivo. Tenmdras que hacer algo por alli ¿no? pues jugar la blackjack mientras bebes whisky, ron o brebaje similar.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela / juego / oeste / blackjack
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : <img width="2910" height="2126" alt="cartel arthur" src="https://github.com/user-attachments/assets/7169785c-135e-4ee8-b34e-04e50cbc7816" />
+
+ 
 
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   (indicar dónde has probado que funciona: itch.io )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 169mb 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
 
 
-![girl](WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Comencé con un storyboard de la pantalla del menu y haciendo sprites para los personajes. Hice también Storyboards de la animaciones que hay dentro del juego.
+Y un ultimo esquema de como tenia que programar el juego del Blackjack
 
 
 
@@ -57,7 +55,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+[Escaneado_20260528-1003.pdf](https://github.com/user-attachments/files/28339191/Escaneado_20260528-1003.pdf)
+
 
 
 
@@ -67,7 +66,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Juego en modo historia y un único juego de cartas.
 
 
 
@@ -82,13 +81,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Busco una manera de hacer reir a la gente con las bromas internas que hay en el juego. Y entretener con el Blackjack sin llegar a la ludopatia pero que haya pique y ver hasta cuando te aburres del juego xD
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todas las edades
 
 
 
@@ -96,25 +95,27 @@ Este  proyecto es interesante porque ...
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+
+- Juego: juego de cartas del Blackjack
+- Video: son animaciones de videos hechos por mi en un programa fuera de godot que luego he importado. Son 3 en total: la animación que hay la iniciar el modo historia; la animación de la muerte cuando pierdes el 50%
+  y la animación de los créditos
+- Instrucciones y ayuda al usuario point and click en todo el juego
+- Menús y elementos de navegación: botones intuitivos que te llevan a las siguientes escenas o partes del juego.
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Me hubiera gustado hacer otro minijuego para hacer el juego más dinámico y un reproductor de música para que el jugador pudiera elegir que escuchar en todo momento. 
+A parte de mejorar los dialogos y meterle un quiz en una de las escenas 
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+me he esforzado mucho para lograr que funcionase el proyecto a pesar de muchas adversidades que he sufrido por el camino asique me siento orgullosa del resultado 
+y con ganas de hacerle mejoras para la experiencia dle jugador
 
 
 
@@ -130,9 +131,22 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica:  [[Ghost] Riders in the Sky [Instrumental].mp3](https://github.com/user-attachments/files/28339695/Ghost.Riders.in.the.Sky.Instrumental.mp3)
+  [big & rich - save a horse (lyrics).mp3](https://github.com/user-attachments/files/28339699/big.rich.-.save.a.horse.lyrics.mp3)
+  [Coyote Dax _No Rompas Más_.mp3](https://github.com/user-attachments/files/28339702/Coyote.Dax._No.Rompas.Mas_.mp3)
+  [Dance with STEEL BALL RUN.mp3](https://github.com/user-attachments/files/28339704/Dance.with.STEEL.BALL.RUN.mp3)
+  [El Bueno, El Feo Y El Malo - II Buono, II Brutto, Il Cattivo.mp3](https://github.com/user-attachments/files/28339706/El.Bueno.El.Feo.Y.El.Malo.-.II.Buono.II.Brutto.Il.Cattivo.mp3)
+  [Game of Thrones Theme - Western Cover.mp3](https://github.com/user-attachments/files/28339713/Game.of.Thrones.Theme.-.Western.Cover.mp3)
+  [JoJo Steel Ball Run Trailer OST「Johnny Theme」 HQ Remake ジョジョの奇妙な冒険.mp3](https://github.com/user-attachments/files/28339715/JoJo.Steel.Ball.Run.Trailer.OST.Johnny.Theme.HQ.Remake.mp3)
+  [JoJo_ ★ STEEL BALL RUN OP ★『Holy Steel』- Original - JoJo's Bizarre Adventure Part 7 【ジョジョの奇妙な冒険】.mp3](https://github.com/user-attachments/files/28339718/JoJo_.STEEL.BALL.RUN.OP.Holy.Steel.-.Original.-.JoJo.s.Bizarre.Adventure.Part.7.mp3)
+  [Lone Rider.mp3](https://github.com/user-attachments/files/28339738/Lone.Rider.mp3)
+  [Rango Theme Song.mp3](https://github.com/user-attachments/files/28339740/Rango.Theme.Song.mp3)
+  [Rednex - Cotton Eye Joe (Official Music Video) [HD] - RednexMusic com.mp3](https://github.com/user-attachments/files/28339744/Rednex.-.Cotton.Eye.Joe.Official.Music.Video.HD.-.RednexMusic.com.mp3)
+  [The Ecstasy of Gold - Ennio Morricone ( The Good, the Bad and the Ugly ) [High Quality Audio].mp3](https://github.com/user-attachments/files/28339747/The.Ecstasy.of.Gold.-.Ennio.Morricone.The.Good.the.Bad.and.the.Ugly.High.Quality.Audio.mp3)
+  
+  * Imágenes:  dibujado a mano y las imagenes de fondo de los dialogos y las cartas hechos co IA
+* Tipografía: Tipogracias tipo western sacadas de Google Fonts: 
+
 
 **Herramientas utilizadas**
 
@@ -146,4 +160,5 @@ https://creativecommons.org/licenses/?lang=es
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

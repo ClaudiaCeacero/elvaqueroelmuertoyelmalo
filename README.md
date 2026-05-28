@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : MI Proyecto(nombre)
 
-**Web:**   (url github.io)
+**Web:**   (https://github.com/ClaudiaCeacero/elvaqueroelmuertoyelmalo/blob/master/_coverpage.md)
 
 **Autor:**  (Nombre apellidos) 
 

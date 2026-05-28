@@ -6,7 +6,8 @@
 
 
 <!---- Portada ----> 
-<img width="736" height="736" alt="133 sin título_20260408203003" src="https://github.com/user-attachments/assets/7e2b75ce-1de2-409e-b9f3-92232c5c49e1" />
+<img width="2910" height="2126" alt="cartel arthur" src="https://github.com/user-attachments/assets/9dbb0589-600a-4927-acd3-46d138f5542a" />
+
 
 
 

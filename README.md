@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Vaqueros Zombies. El Vaquero, el muerto y el malo
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
